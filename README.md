@@ -1,16 +1,16 @@
-# Newsletter
+# Camp.in - Login
 
 ## 🎯 Desafio:
-
-Neste desafio, foi proposto a criação de uma página para capturação de e-mails para o envio de *newsletters*.
+Com base em um layout, foi proposto a criação de uma página de login responsiva.
 <br>
 ### Layout disponibilizado:
-<img src="./images/figma.png">
+<img src="./images/layout.png">
+<a href="https://www.figma.com/file/SX8XFyC5fAY09ai8Oykz0T/DD-%2F-Login-Form---CSS/duplicate">Clique aqui para acessar o layout</a> 
 <br>
 
 ## 🚀 Resultado: 
 <img src="./images/resultado.gif">
-<a href="https://newsletter-five.vercel.app">Clique aqui para acessar o site</a> 
+<a href="https://campin-login-page.vercel.app">Clique aqui para acessar o site</a> 
 
 
 ## ⚒️ Tecnologias utilizadas:
